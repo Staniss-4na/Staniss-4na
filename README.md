@@ -1,16 +1,20 @@
-## Hi there 👋
+## 𝓞𝓵á/𝓗𝓮𝓵𝓵𝓸!
+# ✨PORTUGUÊS✨
 
-<!--
-**Staniss-4na/Staniss-4na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🎀Meu nome é Ana!
 
-Here are some ideas to get you started:
+-🌸Estou me desenvolvendo na linguagem Java Script!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🤍Estou estudando na Alura!
+
+-🍓Ainda sou iniciante!
+
+# ✨ENGLISH✨
+
+-🎀My name is Ana!
+
+-🌸I am developing in the Java Script language!
+
+-🤍I am studying with Alura!
+
+-🍓I am still iniciant!
